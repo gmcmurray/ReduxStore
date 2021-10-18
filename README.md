@@ -73,6 +73,10 @@ Chrome Browser Tools
 
 ## 7. Mock-Up  <a id="mockup"></a>
 
+Here is a screen shot of the image on Heroku deployment:
+
+![](./shopshop.png)
+
 ## 8.  Questions <a id="quest"></a>
 For any questions you can email me at:
 gmcmurray1493@gmail.com
